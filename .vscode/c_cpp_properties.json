@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\DAVID ERIRA\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.1\\libraries\\ESP8266mDNS\\src",
+                "C:\\Users\\DAVID ERIRA\\Documents\\Arduino\\libraries\\**",
+                "C:\\Users\\DAVID ERIRA\\Documents\\Arduino\\libraries\\ESPAsyncWebServer-master\\src",
+                "C:\\Users\\DAVID ERIRA\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\DAVID ERIRA\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.1\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
